@@ -1,6 +1,6 @@
 # Av Pinzur
 
-## Roles:
+## Roles
 
 * Redeemed Creature
 * Husband
@@ -11,13 +11,13 @@
 * Software Development Leader
 * Programming Hobbyist
 
-## Social:
+## Social
 * [Facebook](https://facebook.com/abraham.pinzur)
 * [Goodreads](https://goodreads.com/av-pinzur)
 * [Church](https://trinityfranklin.com)
 * [Gift Ideas](https://www.amazon.com/registry/wishlist/3FP13F964BJDY)
 
-## Work:
+## Work
 * [LinkedIn](https://www.linkedin.com/in/avpinzur)
 * [Blog](https://blog.avpinzur.com/)
 * [GitHub](https://github.com/av-pinzur)
