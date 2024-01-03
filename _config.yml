@@ -57,7 +57,9 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - about.md
+  - _posts/2023-12-29-welcome-to-jekyll.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
