@@ -1,3 +1,11 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+# This variable is redundant - `home` is the default for index.
+# However, we need *some* variable in this front matter area, or GitHub preview treats this section as Markdown rather than front matter.
+layout: home
+---
 # Av Pinzur
 
 ## Roles
