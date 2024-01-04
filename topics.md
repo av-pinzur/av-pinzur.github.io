@@ -14,4 +14,4 @@
 - Alphabet soup recruiting (antipattern)
 - The C Minus Engineer (career antipattern)
 - Platform Stockholm Syndrome (architecture antipattern)
-- "You Can Do That Just as Well With..." (architecture antipattern)
+- "You Can Do That Just as Well With..." (or, different languages, same code - architecture antipattern)
